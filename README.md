@@ -1,5 +1,5 @@
 # odin-recipes
-The Odin Project HTML Foundations. Building a basic recipe website
+The Odin Project HTML Foundations. Building a basic recipe website.
 The website will consist of a main index.html page which will have links to a few recipes 
 Skills for this project:
 - Open a repository in Github and move the repository onto the local machine
