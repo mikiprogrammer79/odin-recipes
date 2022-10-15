@@ -25,10 +25,7 @@ h1 {
 
 .recipes {
     text-align: left;
-}
-
-.recipesh1 {
-    text-align: center;
+    color: white;
 }
 
 #ravioli, #lasagna, #panna_cotta, #pesto {
